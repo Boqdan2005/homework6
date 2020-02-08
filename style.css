@@ -1,0 +1,21 @@
+body {
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.golden {
+    color: gold;
+    margin-left: 5%;
+}
+
+.li1 {
+    color: gold;
+}
+
+.ul {
+    list-style: none;
+    justify-content: flex-end;
+    text-transform: uppercase;
+    display: flex;
+    text-decoration: none;
+}
